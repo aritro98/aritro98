@@ -50,7 +50,7 @@
 ![Sensor Integration](https://img.shields.io/badge/Sensor_Integration-6D6D6D?style=for-the-badge&logo=probot&logoColor=white)
 ![Wireless Protocols](https://img.shields.io/badge/Wireless_Protocols-0090D1?style=for-the-badge&logo=zigbee&logoColor=white)
 
-### Tools & Platforms
+### Dev Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
