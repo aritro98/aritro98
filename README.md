@@ -6,7 +6,6 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aritro--dutta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aritro-dutta)
 [![GitHub followers](https://img.shields.io/github/followers/aritro98?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/aritro98)
 [![Profile views](https://komarev.com/ghpvc/?username=aritro98&style=for-the-badge&color=58A6FF)](https://github.com/aritro98)
 
