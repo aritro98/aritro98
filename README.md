@@ -63,43 +63,6 @@ I'm a **Final Year B.Tech CSE student at KIIT, Bhubaneswar**, passionate about b
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔮 [StockOracle — AI-Powered Stock Prediction & Forecasting](https://github.com/aritro98/StockOracle-AI-Powered-Stock-Prediction-and-Forecasting-System)
-> An AI-driven platform combining **5 years of historical data**, NLP-driven sentiment analysis, BERTopic topic modelling, and a hybrid forecasting engine (Holt-Winters + Gradient Boosting) into an interactive **Streamlit dashboard** for Buy/Sell/Hold signals.
-
-`Python` `NLP` `BERTopic` `Gradient Boosting` `Streamlit` `Time Series`
-
----
-
-### 🫀 [Cardiovascular Disease Prediction Model](https://github.com/aritro98/Mini-Project-Cardiovascular-Disease-Prediction-Model)
-> End-to-end ML pipeline predicting cardiovascular risk from routine health metrics. Trained **7 classifiers** in a Voting Ensemble achieving **98.5% accuracy**. Fully documented and deployment-ready.
-
-`Python` `scikit-learn` `Ensemble Learning` `EDA` `Feature Engineering`
-
----
-
-### 👥 [Multi-Dataset Customer Segmentation via Unsupervised RFM Learning](https://github.com/aritro98/Multi-Dataset-Customer-Segmentation-via-Unsupervised-RFM-Learning)
-> End-to-end pipeline harmonising web analytics, transaction, and retail data into unified RFM features. Applied **PCA/t-SNE** visualisation and **6 clustering algorithms** (K-Means, DBSCAN, GMM, BIRCH, etc.) with auto-tuning.
-
-`Python` `Unsupervised ML` `PCA` `t-SNE` `Clustering` `Data Science`
-
----
-
-### 🤖 [Connect-K Tournament Bot](https://github.com/aritro98/ConnectK-Tournament-Bot)
-> Competitive AI bot for Connect-K built for **Blue Stone Hackathon**. Implements **iterative deepening minimax** with alpha-beta pruning and a robust heuristic, optimised for speed under strict time limits on generalised board sizes.
-
-`Python` `Game Theory` `Minimax` `Alpha-Beta Pruning` `AI`
-
----
-
-### 🦾 [Arduino Controlled Glove Robotic Arm Assistant](https://github.com/aritro98/Arduino-Controlled-Glove-Robotic-Arm-Assistant)
-> Sensor-glove interface wirelessly driving a **6-DOF robotic arm** via ESP-NOW with sub-150ms latency and ±2° positioning accuracy — for assistive, industrial, and STEM-education settings.
-
-`C/C++` `Arduino` `ESP-NOW` `Embedded Systems` `Robotics`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
