@@ -49,6 +49,7 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-F0740C?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Sensor Integration](https://img.shields.io/badge/Sensor_Integration-6D6D6D?style=for-the-badge&logo=probot&logoColor=white)
 ![Wireless Protocols](https://img.shields.io/badge/Wireless_Protocols-0090D1?style=for-the-badge&logo=zigbee&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
 
 ### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
