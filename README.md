@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aritro+Dutta+%F0%9F%91%8B;ML+%26+AI+Engineer+in+Training;Amazon+ML+Summer+School+'25;Building+intelligent+systems+with+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aritro+Dutta+%F0%9F%91%8B;AI+%2D+Robotics+Engineer+in+Training;Building+Intelligent+Systems+with+Python)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,13 +16,12 @@
 
 ## 🧠 About Me
 
-I'm a **Final Year B.Tech CSE student at KIIT, Bhubaneswar**, passionate about building end-to-end intelligent systems at the intersection of **Machine Learning, NLP, and Generative AI**.
-
-- 🎓 **Amazon ML Summer School '25** — selected participant in Amazon's flagship ML program
-- 🤖 Focused on **ML pipelines, NLP, GenAI, and Data Science**
-- 🔬 Currently exploring **LLMs, RAG architectures, and Agentic AI**
-- 🔍 Open to **SDE / ML Engineer / Data Science** roles & internships
-- 📍 Based in **Kolkata, West Bengal, India**
+- 📖 I'm currently a final year student completing his B. Tech in Computer Science and Engineering from KIIT University.
+- 🤖 Focused on **ML, DL, Data Science, Robotics & Intelligent systems**
+- ⏳ Currently revisiting core CS Fundamentals like **DSA, DBMS** etc.
+- 🎯 Actively seeking **ML Engineer / Data Science / Robotics Engineer** roles & internships for 2026 but also available for **SDE / Data Analyst / Python Developer / GET** roles too.
+- 🤝 Open to **collaborations** on ML, Robotics, or AI-driven open-source projects.
+- **Hobbies:** 🎨 Painting / Art, 📸 Photography, 📚 Reading, 🎵 Music, ✂️ Crafting, ⚽ Sports, 🧩 Puzzles, 🌍 Traveling, 🤔 Philosophy, 🧠 Psychology, 🔭 Stargazing etc.
 
 ---
 
@@ -78,23 +77,12 @@ I'm a **Final Year B.Tech CSE student at KIIT, Bhubaneswar**, passionate about b
 
 ---
 
-## 🌱 Currently
-
-- 📖 Deepening knowledge in **LLMs, RAG, and Agentic AI workflows**
-- 🏗 Building projects with **HuggingFace Transformers & LangChain**
-- 🎯 Actively seeking **ML Engineer / Data Science / SDE roles** for 2026
-- 🤝 Open to **collaborations** on ML, NLP, or AI-driven open-source projects
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aritro-dutta)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/aritro98)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritrodutta98@gmail.com)
-
-*"The best way to predict the future is to build it."*
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritrodutta123@gmail.com)
 
 </div>
