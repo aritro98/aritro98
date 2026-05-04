@@ -118,20 +118,6 @@ I'm a **Final Year B.Tech CSE student at KIIT, Bhubaneswar**, passionate about b
 
 ---
 
-## 📜 Certifications & Achievements
-
-| Certificate | Issuer | Year |
-|---|---|---|
-| 🏅 IBM Data Science Professional Certificate | Coursera | 2025 |
-| ☁️ AICTE Edu-Skills Virtual Internship — AWS AI-ML | EduSkills / AICTE | 2025 |
-| 🤖 Generative AI Mastermind | Outskill | 2025 |
-| 🌐 Introduction to Generative AI | Google Cloud | 2024 |
-| 🐍 Python Programming Foundation | GeeksForGeeks | 2024 |
-| 🏭 AI in Robotics Applications | NIT Rourkela | 2024 |
-| 📊 Mastering DSA using C and C++ | Udemy | 2023 |
-
----
-
 ## 🌱 Currently
 
 - 📖 Deepening knowledge in **LLMs, RAG, and Agentic AI workflows**
