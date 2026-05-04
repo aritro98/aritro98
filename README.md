@@ -1,16 +1,154 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aritro98/aritro98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aritro+Dutta+%F0%9F%91%8B;ML+%26+AI+Engineer+in+Training;Amazon+ML+Summer+School+'25;Building+intelligent+systems+with+Python)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aritro--dutta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aritro-dutta)
+[![GitHub followers](https://img.shields.io/github/followers/aritro98?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/aritro98)
+[![Profile views](https://komarev.com/ghpvc/?username=aritro98&style=for-the-badge&color=58A6FF)](https://github.com/aritro98)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a **Final Year B.Tech CSE student at KIIT, Bhubaneswar**, passionate about building end-to-end intelligent systems at the intersection of **Machine Learning, NLP, and Generative AI**.
+
+- 🎓 **Amazon ML Summer School '25** — selected participant in Amazon's flagship ML program
+- 🤖 Focused on **ML pipelines, NLP, GenAI, and Data Science**
+- 🔬 Currently exploring **LLMs, RAG architectures, and Agentic AI**
+- 🔍 Open to **SDE / ML Engineer / Data Science** roles & internships
+- 📍 Based in **Kolkata, West Bengal, India**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ML / AI
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-46A2F1?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🤖 Robotics & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP-NOW](https://img.shields.io/badge/ESP--NOW%20%2F%20ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Autodesk Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F0740C?style=for-the-badge&logo=autodesk&logoColor=white)
+![Sensor Integration](https://img.shields.io/badge/Sensor_Integration-6D6D6D?style=for-the-badge&logo=probot&logoColor=white)
+![Wireless Protocols](https://img.shields.io/badge/Wireless_Protocols-0090D1?style=for-the-badge&logo=zigbee&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔮 [StockOracle — AI-Powered Stock Prediction & Forecasting](https://github.com/aritro98/StockOracle-AI-Powered-Stock-Prediction-and-Forecasting-System)
+> An AI-driven platform combining **5 years of historical data**, NLP-driven sentiment analysis, BERTopic topic modelling, and a hybrid forecasting engine (Holt-Winters + Gradient Boosting) into an interactive **Streamlit dashboard** for Buy/Sell/Hold signals.
+
+`Python` `NLP` `BERTopic` `Gradient Boosting` `Streamlit` `Time Series`
+
+---
+
+### 🫀 [Cardiovascular Disease Prediction Model](https://github.com/aritro98/Mini-Project-Cardiovascular-Disease-Prediction-Model)
+> End-to-end ML pipeline predicting cardiovascular risk from routine health metrics. Trained **7 classifiers** in a Voting Ensemble achieving **98.5% accuracy**. Fully documented and deployment-ready.
+
+`Python` `scikit-learn` `Ensemble Learning` `EDA` `Feature Engineering`
+
+---
+
+### 👥 [Multi-Dataset Customer Segmentation via Unsupervised RFM Learning](https://github.com/aritro98/Multi-Dataset-Customer-Segmentation-via-Unsupervised-RFM-Learning)
+> End-to-end pipeline harmonising web analytics, transaction, and retail data into unified RFM features. Applied **PCA/t-SNE** visualisation and **6 clustering algorithms** (K-Means, DBSCAN, GMM, BIRCH, etc.) with auto-tuning.
+
+`Python` `Unsupervised ML` `PCA` `t-SNE` `Clustering` `Data Science`
+
+---
+
+### 🤖 [Connect-K Tournament Bot](https://github.com/aritro98/ConnectK-Tournament-Bot)
+> Competitive AI bot for Connect-K built for **Blue Stone Hackathon**. Implements **iterative deepening minimax** with alpha-beta pruning and a robust heuristic, optimised for speed under strict time limits on generalised board sizes.
+
+`Python` `Game Theory` `Minimax` `Alpha-Beta Pruning` `AI`
+
+---
+
+### 🦾 [Arduino Controlled Glove Robotic Arm Assistant](https://github.com/aritro98/Arduino-Controlled-Glove-Robotic-Arm-Assistant)
+> Sensor-glove interface wirelessly driving a **6-DOF robotic arm** via ESP-NOW with sub-150ms latency and ±2° positioning accuracy — for assistive, industrial, and STEM-education settings.
+
+`C/C++` `Arduino` `ESP-NOW` `Embedded Systems` `Robotics`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aritro98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritro98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aritro98&theme=tokyonight&hide_border=true)](https://github.com/aritro98)
+
+</div>
+
+---
+
+## 📜 Certifications & Achievements
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| 🏅 IBM Data Science Professional Certificate | Coursera | 2025 |
+| ☁️ AICTE Edu-Skills Virtual Internship — AWS AI-ML | EduSkills / AICTE | 2025 |
+| 🤖 Generative AI Mastermind | Outskill | 2025 |
+| 🌐 Introduction to Generative AI | Google Cloud | 2024 |
+| 🐍 Python Programming Foundation | GeeksForGeeks | 2024 |
+| 🏭 AI in Robotics Applications | NIT Rourkela | 2024 |
+| 📊 Mastering DSA using C and C++ | Udemy | 2023 |
+
+---
+
+## 🌱 Currently
+
+- 📖 Deepening knowledge in **LLMs, RAG, and Agentic AI workflows**
+- 🏗 Building projects with **HuggingFace Transformers & LangChain**
+- 🎯 Actively seeking **ML Engineer / Data Science / SDE roles** for 2026
+- 🤝 Open to **collaborations** on ML, NLP, or AI-driven open-source projects
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aritro-dutta)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/aritro98)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritrodutta98@gmail.com)
+
+*"The best way to predict the future is to build it."*
+
+</div>
