@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Social badges -->
-[![GitHub followers](https://img.shields.io/github/followers/aritro98?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/aritro98)
+[![GitHub followers](https://img.shields.io/github/followers/aritro98)](https://github.com/aritro98)
 [![Profile views](https://komarev.com/ghpvc/?username=aritro98&style=for-the-badge&color=58A6FF)](https://github.com/aritro98)
 
 </div>
