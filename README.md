@@ -18,7 +18,7 @@
 - 📖 I'm currently a final year student completing his B. Tech in Computer Science and Engineering from KIIT University.
 - 🤖 Focused on **ML, DL, Data Science, Robotics & Intelligent systems**.
 - ⏳ Currently revisiting core CS Fundamentals like **DSA, DBMS** etc.
-- 🎯 Actively seeking **ML Engineer / Data Science / Robotics Engineer** roles & internships for 2026 but also available for **SDE / Data Analyst / Python Developer / GET** roles too.
+- 🎯 Actively seeking **ML Engineer / Data Science / Robotics Engineer** roles & internships for 2026 — open to **SDE / Data Analyst / Python Developer / GET** roles where I can build real engineering depth and contribute meaningfully from day one.
 - 🤝 Open to **collaborations** on ML, Robotics, or AI-driven open-source projects.
 - **Hobbies:** 🎨 Painting / Art, 📸 Photography, 📚 Reading, 🎵 Music, ✂️ Crafting, ⚽ Sports, 🧩 Puzzles, 🌍 Traveling, 🤔 Philosophy, 🧠 Psychology, 🔭 Stargazing etc.
 
